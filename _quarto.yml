@@ -1,13 +1,18 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "mysite"
+  title: "Andie Hall's Website"
+  favicon: "Quarto Photos/favicon.ico"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: Projects.qmd
+      - text: Resume
+        href: Resume.qmd
 
 format:
   html:

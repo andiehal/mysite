@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+In the spring of 2025, I took a class on Quantitive Reasoning based in R. I wrote code, did data science, and cried just a little bit. Here is a collection of links to my projects.[^1]
+
+## Building a project website
+- In this assignment, we built a static users site with Github Pages
+- Includes a github repo for access to all the code.
+
+[^1]: This is a footnote!
