@@ -13,12 +13,26 @@ website:
         href: Projects.qmd
       - text: Resume
         href: Resume.qmd
+  page-footer: 
+    background: light
+    left: "Copyright 2025, Andie Hall"
+    right: 'This website is built with <i class="fa fa-heart" title="a heart"></i>, 
+           <a href="https://github.com/andiehal/Andies-Website" target="_blank">
+             <i class="fab fa-github" title="GitHub octocat logo"></i>
+           </a>, 
+           <a href="https://www.r-project.org/about.html" target="_blank">
+             <i class="fab fa-r-project" title="R Project"></i>
+           </a>, 
+           and <a href="https://quarto.org/" target="_blank">Quarto</a>'
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 editor: visual
 

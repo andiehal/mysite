@@ -3,7 +3,7 @@ title: "Andie Hall"
 image: "Quarto Photos/IMG_1440.JPG"
 toc: false
 about:
-  template: jolla
+  template: broadside
   image-shape: round
   image-width: 17em
   links: 
@@ -13,9 +13,12 @@ about:
       href: "https://github.com/andiehal"
     - text: Email
       href: "mailto:andiehal@colostate.edu"
-
 ---
 
+## About Me
 
-Hello my name is Andie Hall, and I'm a Junior in Ecosystem Sciences and Sustainability. I'm passionate about Ecology, Environmental Economics, and creating a warm and welcoming environment wherever I go! My contact information is below if you would like to get involved and I am always willing to work on a new project or event. 
+Hello my name is Andie Hall, and I'm a Junior in Ecosystem Sciences and Sustainability. I'm passionate about Ecology, Environmental Economics, and creating a warm and welcoming environment wherever I go! My contact information is below if you would like to get involved and I am always willing to work on a new project or event.
 
+## Education 
+  **Bachelors of Science - Ecosystem Sciences and Sustainability** 
+    August 2022 - May 2026
