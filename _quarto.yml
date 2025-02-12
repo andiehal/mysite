@@ -28,7 +28,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: _custom.cscc
     toc: true
     include-in-header:
       - text: |

@@ -1,0 +1,18 @@
+// Define custom colors
+$primary-color: #fefae7; // Light Yellow
+$secondary-color: #e79caa; // Light Ashy Pink
+$heading-color: #57758d; // Darker Ashy Blue
+
+// Apply colors to body and other elements
+body {
+  background-color: $primary-color;
+  color: #333;
+}
+
+.navbar {
+  background-color: $secondary-color;
+}
+
+h1, h2, h3 {
+  color: $heading-color;
+}
