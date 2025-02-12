@@ -6,7 +6,6 @@ $heading-color: #57758d; // Darker Ashy Blue
 // Apply colors to body and other elements
 body {
   background-color: $primary-color;
-  color: #333;
 }
 
 .navbar {

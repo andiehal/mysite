@@ -1,5 +1,5 @@
 ---
-title: "Andie Hall"
+title: "⊹ ࣪ ˖Andie Hall⊹ ࣪ ˖"
 image: "Quarto Photos/IMG_1440.JPG"
 toc: false
 about:
