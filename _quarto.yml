@@ -27,7 +27,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [flatly, _custom.scss]
     css: _custom.cscc
     toc: true
     include-in-header:
